@@ -3,9 +3,9 @@
 __pycache__/
 *.pyc
 *.pkl
-*.joblib
-*.csv
-data/
-results/
-scripts/__pycache__/
-scripts/results/
+# *.joblib
+# *.csv
+# data/
+# results/
+# scripts/__pycache__/
+# scripts/results/

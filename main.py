@@ -36,6 +36,8 @@ def main():
     # Load dataset
     df = load_dataset(file_path)
 
+    print(df.head())
+
     if df.empty:
         print("❌ Dataset failed to load or is empty.")
         return
